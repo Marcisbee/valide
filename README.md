@@ -42,19 +42,19 @@ Every rule can have custom error message. To add it, simply chain `.error(string
 
 ### Currently available rules:
 
-- required, `.required()`
-- test, `.test(regex)`
-- includes, `.includes(string)`
-- excludes, `.excludes(string)`
-- equal, `.equal(string)`
-- notEqual, `.notEqual(string)`
-- min, `.min(number)`
-- max, `.max(number)`
-- email, `.email(string)`
+- `.required()`
+- `.test(regex)`
+- `.includes(string)`
+- `.excludes(string)`
+- `.equal(string)`
+- `.notEqual(string)`
+- `.min(number)`
+- `.max(number)`
+- `.email(string)`
 
 ---
 
-- error, `.error(string [, params])`
+- `.error(string [, params])`
 
 ## Stay In Touch
 
@@ -65,4 +65,4 @@ Every rule can have custom error message. To add it, simply chain `.error(string
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2017-present, Marcis (Marcisbee) Bergmanis
+Copyright (c) 2018-present, Marcis (Marcisbee) Bergmanis
