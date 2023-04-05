@@ -1,4 +1,7 @@
 # Valide
+
+[![discord](https://dcbadge.vercel.app/api/server/a62gfaDW2e?style=flat-square)](https://discord.gg/a62gfaDW2e)
+
 Valide is simple, chainable, multi lingual data validator.
 
 ## Installation
